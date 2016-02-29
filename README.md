@@ -1,1 +1,1 @@
-# cassandra-docker
+# LNMP-on-shurenyun
